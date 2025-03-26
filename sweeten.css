@@ -146,3 +146,67 @@ body {
     max-height:500px;
     overflow:auto
 }
+.progress {
+    display: flex;
+    font-size: .675rem;
+    line-height: 1rem;
+    overflow: visible;
+    text-align: center;
+    position: relative;
+    height: .8rem;
+    border: 1px solid var(--dark);
+    border-radius: 20px;
+    background: repeating-linear-gradient(45deg, var(--bright), var(--bright) 10%, var(--bright2) 10%, var(--bright2) 20%);
+    box-shadow: inset 0px 3px 8px -2px var(--white);} 
+    .progress-bar {
+    background-color: transparent;
+    color: #1c141d;
+    height: 100%;
+  position: absolute;
+    display: flex;
+    align-items: center;
+}
+.p1 {
+  --color: var(--white)
+}
+.p2 {
+  --color: var(--dark2)
+}
+.p1::after, .p2::after {
+    position: absolute; 
+    left: auto; 
+  right: -.5rem;
+    height: 1rem; 
+    width: 1rem; 
+    background: var(--color); 
+    content: ""; 
+    border-radius: 100%;
+  border: 1px solid black
+}
+.sliders td {
+    display: flex;
+    gap: 10px;
+    background: var(--white) !important;
+    width: calc(100% - 1.5rem);
+    flex-direction: column;
+    border-radius: 10px;
+    margin: .5rem .75rem;
+    /* border: transparent !important; */
+    border: 2px dashed var(--dark2) !important;
+    box-shadow: 0 0 0 3px var(--white), inset 0 0 0 1px var(--white), 0 0 0 5px var(--dark2), 3px 3px 3px 1px var(--dark);
+}
+.sliders tr {
+    border: transparent !important;
+    background: transparent !important;
+}
+.sliders {
+    width: 460px;
+}
+.labels {
+    display: flex;
+    justify-content: space-between;
+}
+    #sharing {
+            width: calc(300px - 1rem);margin: auto;
+    }
+    #sharing th, #sharing td, #sharing tr {background: transparent !important;border: transparent !important;}
