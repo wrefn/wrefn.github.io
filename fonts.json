@@ -1,499 +1,497 @@
-{
-  "fonts": [
-    {
-      "font_name": "000webfont",
-      "font_url": "https://www.dafont.com/000webfont.font",
-      "tags": "pixel"
-    },
-    {
-      "font_name": "Aclonica",
-      "font_url": "https://fonts.google.com/specimen/Aclonica",
-      "tags": "sans-serif"
-    },
-    {
-      "font_name": "Add Standard Bitmap",
-      "font_url": "https://www.dafont.com/addstandardbitmap.font",
-      "tags": "pixel"
-    },
-    {
-      "font_name": "Adia",
-      "font_url": "https://www.dafont.com/adia.font",
-      "tags": "sans-serif script"
-    },
-    {
-      "font_name": "ADLaM Display",
-      "font_url": "https://fonts.google.com/specimen/ADLaM+Display",
-      "tags": "sans-serif"
-    },
-    {
-      "font_name": "Aloevera",
-      "font_url": "https://www.1001fonts.com/aloevera-font.html",
-      "tags": "serif cursive"
-    },
-    {
-      "font_name": "Arima",
-      "font_url": "https://fonts.google.com/specimen/Arima",
-      "tags": "script favorites"
-    },
-    {
-      "font_name": "Arima 2",
-      "font_url": "https://fontmeme.com/fonts/arima-font/",
-      "tags": "misc"
-    },
-    {
-      "font_name": "Atkinson Hyperlegible",
-      "font_url": "https://fonts.google.com/specimen/Atkinson+Hyperlegible",
-      "tags": "sans-serif favorites"
-    },
-    {
-      "font_name": "Baloo 2",
-      "font_url": "https://fonts.google.com/specimen/Baloo+2",
-      "tags": "sans-serif favorites"
-    },
-    {
-      "font_name": "Balsamiq Sans",
-      "font_url": "https://fonts.google.com/specimen/Balsamiq+Sans",
-      "tags": "sans-serif"
-    },
-    {
-      "font_name": "Bangalore",
-      "font_url": "https://www.dafont.com/bangalore.font",
-      "tags": "pixel"
-    },
-    {
-      "font_name": "Barlow",
-      "font_url": "https://fonts.google.com/specimen/Barlow",
-      "tags": "sans-serif"
-    },
-    {
-      "font_name": "basiic",
-      "font_url": "https://cinni.net/font",
-      "tags": "pixel favorites"
-    },
-    {
-      "font_name": "Berkshire Swash",
-      "font_url": "https://fonts.google.com/specimen/Berkshire+Swash",
-      "tags": "cursive"
-    },
-    {
-      "font_name": "Bestfriend",
-      "font_url": "https://www.dafont.com/bestfriend-2.font",
-      "tags": "script"
-    },
-    {
-      "font_name": "Bodoni 72",
-      "font_url": "https://fonts.google.com/specimen/Bodoni+72",
-      "tags": "serif"
-    },
-    {
-      "font_name": "Caprasimo",
-      "font_url": "https://fonts.google.com/specimen/Caprasimo",
-      "tags": "serif"
-    },
-    {
-      "font_name": "CatCafe",
-      "font_url": "https://www.dafont.com/catcafe.font",
-      "tags": "misc"
-    },
-    {
-      "font_name": "Chelsea Market",
-      "font_url": "https://fonts.google.com/specimen/Chelsea+Market",
-      "tags": "sans-serif favorites"
-    },
-    {
-      "font_name": "Cherry Bomb One",
-      "font_url": "https://fonts.google.com/specimen/Cherry+Bomb+One",
-      "tags": "misc"
-    },
-    {
-      "font_name": "Cherry Swash",
-      "font_url": "https://fonts.google.com/specimen/Cherry+Swash",
-      "tags": "serif favorites"
-    },
-    {
-      "font_name": "Chilanka",
-      "font_url": "https://fonts.google.com/specimen/Chilanka",
-      "tags": "script"
-    },
-    {
-      "font_name": "Cookies",
-      "font_url": "https://www.dafont.com/cookies.font",
-      "tags": "misc"
-    },
-    {
-      "font_name": "Correction Brush",
-      "font_url": "https://www.dafont.com/correction-brush.font",
-      "tags": "misc"
-    },
-    {
-      "font_name": "Croissant One",
-      "font_url": "https://fonts.google.com/specimen/Croissant One",
-      "tags": "cursive"
-    },
-    {
-      "font_name": "Daily Note",
-      "font_url": "https://www.dafont.com/daily-note.font",
-      "tags": "misc"
-    },
-    {
-      "font_name": "Daydream",
-      "font_url": "https://www.dafont.com/daydream-3.font",
-      "tags": "misc pixel"
-    },
-    {
-      "font_name": "Days One",
-      "font_url": "https://fonts.google.com/specimen/Days+One",
-      "tags": "sans-serif"
-    },
-    {
-      "font_name": "Dekko",
-      "font_url": "https://fonts.google.com/specimen/Dekko",
-      "tags": "misc script favorites"
-    },
-    {
-      "font_name": "Delicious Handrawn",
-      "font_url": "https://fonts.google.com/specimen/Delicious+Handrawn",
-      "tags": "script"
-    },
-    {
-      "font_name": "Delius",
-      "font_url": "https://fonts.google.com/specimen/Delius",
-      "tags": "script favorites"
-    },
-    {
-      "font_name": "Denk One",
-      "font_url": "https://fonts.google.com/specimen/Denk+One",
-      "tags": "sans-serif"
-    },
-    {
-      "font_name": "Dongle",
-      "font_url": "https://fonts.google.com/specimen/Dongle",
-      "tags": "misc"
-    },
-    {
-      "font_name": "Doto",
-      "font_url": "https://fonts.google.com/specimen/Doto",
-      "tags": "pixel mono"
-    },
-    {
-      "font_name": "Drama Protocols",
-      "font_url": "https://www.dafont.com/drama-protocols.font",
-      "tags": "misc"
-    },
-    {
-      "font_name": "dungeon-mode",
-      "font_url": "https://datagoblin.itch.io/dungeonmode",
-      "tags": "pixel"
-    },
-    {
-      "font_name": "Emilys Candy",
-      "font_url": "https://fonts.google.com/specimen/Emilys+Candy",
-      "tags": "serif"
-    },
-    {
-      "font_name": "fingerlinger",
-      "font_url": "https://www.dafont.com/fingerlinger.font",
-      "tags": "script"
-    },
-    {
-      "font_name": "Fishes Friends",
-      "font_url": "https://www.dafont.com/fishes-friends.font",
-      "tags": "script"
-    },
-    {
-      "font_name": "Glass Antiqua",
-      "font_url": "https://fonts.google.com/specimen/Glass+Antiqua",
-      "tags": "serif favorites"
-    },
-    {
-      "font_name": "Grenze Gotisch",
-      "font_url": "https://fonts.google.com/specimen/Grenze+Gotisch",
-      "tags": "serif"
-    },
-    {
-      "font_name": "Handjet",
-      "font_url": "https://fonts.google.com/specimen/Handjet",
-      "tags": "pixel favorites"
-    },
-    {
-      "font_name": "Harvest Story",
-      "font_url": "https://www.dafont.com/harvest-story.font",
-      "tags": "script"
-    },
-    {
-      "font_name": "Helwa",
-      "font_url": "https://www.dafont.com/helwa.font",
-      "tags": "script"
-    },
-    {
-      "font_name": "Hey Comic",
-      "font_url": "https://www.dafont.com/hey-comic.font",
-      "tags": "sans-serif"
-    },
-    {
-      "font_name": "Janda Quirky Girl",
-      "font_url": "https://www.dafont.com/janda-quirkygirl.font",
-      "tags": "misc"
-    },
-    {
-      "font_name": "Jersey 20",
-      "font_url": "https://fonts.google.com/specimen/Jersey+20",
-      "tags": "pixel"
-    },
-    {
-      "font_name": "Jua",
-      "font_url": "https://fonts.google.com/specimen/Jua",
-      "tags": "misc favorites"
-    },
-    {
-      "font_name": "Kavala",
-      "font_url": "https://fontmeme.com/fonts/kavala-font/",
-      "tags": "misc"
-    },
-    {
-      "font_name": "KG Everywhere Everything",
-      "font_url": "https://www.dafont.com/kg-everywhere-everything.font",
-      "tags": "script"
-    },
-    {
-      "font_name": "KTEGAKI",
-      "font_url": "https://font.spicy-sweet.com/",
-      "tags": "script favorites"
-    },
-    {
-      "font_name": "Lavishly Yours",
-      "font_url": "https://fonts.google.com/specimen/Lavishly+Yours",
-      "tags": "cursive"
-    },
-    {
-      "font_name": "Lemon Milk",
-      "font_url": "https://www.dafont.com/lemon-milk.font",
-      "tags": "sans-serif"
-    },
-    {
-      "font_name": "Love Ya Like A Sister",
-      "font_url": "https://fonts.google.com/specimen/Love+Ya+Like+A+Sister",
-      "tags": "serif script"
-    },
-    {
-      "font_name": "Luminari",
-      "font_url": "https://font.download/font/luminari",
-      "tags": "serif"
-    },
-    {
-      "font_name": "m6x11",
-      "font_url": "https://managore.itch.io/m6x11",
-      "tags": "pixel"
-    },
-    {
-      "font_name": "Mad Pixels",
-      "font_url": "https://www.dafont.com/nl/mad-pixels.font",
-      "tags": "pixel misc"
-    },
-    {
-      "font_name": "Mali",
-      "font_url": "https://fonts.google.com/specimen/Mali",
-      "tags": "favorites cursive"
-    },
-    {
-      "font_name": "Manjari",
-      "font_url": "https://fonts.google.com/specimen/Manjari",
-      "tags": "misc"
-    },
-    {
-      "font_name": "Margarine",
-      "font_url": "https://fonts.google.com/specimen/Margarine",
-      "tags": "script favorites"
-    },
-    {
-      "font_name": "Mat Saleh",
-      "font_url": "https://www.dafont.com/mat-saleh.font",
-      "tags": "script"
-    },
-    {
-      "font_name": "Mayonice",
-      "font_url": "https://www.dafont.com/mayonice.font",
-      "tags": "cursive"
-    },
-    {
-      "font_name": "Motley Forces",
-      "font_url": "https://www.dafont.com/motley-forces.font",
-      "tags": "misc"
-    },
-    {
-      "font_name": "Muloka Kerash",
-      "font_url": "https://www.dafont.com/muloka-kerash.font",
-      "tags": "serif misc"
-    },
-    {
-      "font_name": "Mynerve",
-      "font_url": "https://fonts.google.com/specimen/Mynerve",
-      "tags": "script"
-    },
-    {
-      "font_name": "Mystery Quest",
-      "font_url": "https://fonts.google.com/specimen/Mystery+Quest",
-      "tags": "serif"
-    },
-    {
-      "font_name": "Nanum Pen Script",
-      "font_url": "https://fonts.google.com/specimen/Nanum+Pen+Script",
-      "tags": "misc"
-    },
-    {
-      "font_name": "Nerko One",
-      "font_url": "https://fonts.google.com/specimen/Nerko+One",
-      "tags": "misc"
-    },
-    {
-      "font_name": "Neucha",
-      "font_url": "https://fonts.google.com/specimen/Neucha",
-      "tags": "sans-serif misc"
-    },
-    {
-      "font_name": "Next Sunday",
-      "font_url": "https://www.dafont.com/next-sunday.font",
-      "tags": "sans-serif"
-    },
-    {
-      "font_name": "Nice Chalk Demo",
-      "font_url": "https://www.dafont.com/nice-chalk.font",
-      "tags": "script"
-    },
-    {
-      "font_name": "Nintendo Humming",
-      "font_url": "https://triviacrossing.tumblr.com/post/181837431289/animal-crossing-dialogue-font",
-      "tags": "sans-serif misc favorites"
-    },
-    {
-      "font_name": "Nova Mono",
-      "font_url": "https://fonts.google.com/specimen/Nova+Mono",
-      "tags": "mono"
-    },
-    {
-      "font_name": "OCRA",
-      "font_url": "https://www.wfonts.com/font/ocra",
-      "tags": "misc"
-    },
-    {
-      "font_name": "Palanquin Dark",
-      "font_url": "https://fonts.google.com/specimen/Palanquin+Dark",
-      "tags": "sans-serif"
-    },
-    {
-      "font_name": "Pangolin",
-      "font_url": "https://fonts.google.com/specimen/Pangolin",
-      "tags": "script"
-    },
-    {
-      "font_name": "Patrick Hand",
-      "font_url": "https://fonts.google.com/specimen/Patrick+Hand",
-      "tags": "script"
-    },
-    {
-      "font_name": "Peaberry",
-      "font_url": "https://emhuo.itch.io/peaberry-pixel-font",
-      "tags": "pixel favorites"
-    },
-    {
-      "font_name": "Pen 2",
-      "font_url": "https://www.dafont.com/pen-2.font",
-      "tags": "script"
-    },
-    {
-      "font_name": "Pink Chicken",
-      "font_url": "https://www.dafont.com/pink-chicken.font",
-      "tags": "misc"
-    },
-    {
-      "font_name": "Pixellari",
-      "font_url": "https://www.dafont.com/pixellari.font",
-      "tags": "pixel"
-    },
-    {
-      "font_name": "Preahvihear",
-      "font_url": "https://fonts.google.com/specimen/Preahvihear",
-      "tags": "misc favorites"
-    },
-    {
-      "font_name": "Quenton Serif",
-      "font_url": "https://www.dafont.com/quenton-serif.font",
-      "tags": "serif"
-    },
-    {
-      "font_name": "quickstyler",
-      "font_url": "https://www.dafont.com/quickstyler.font",
-      "tags": "cursive"
-    },
-    {
-      "font_name": "Romance A",
-      "font_url": "https://eng.m.fontke.com/font/10430672/download/",
-      "tags": "pixel"
-    },
-    {
-      "font_name": "Signature December",
-      "font_url": "https://www.dafont.com/signature-december.font",
-      "tags": "cursive misc favorites"
-    },
-    {
-      "font_name": "Sniglet",
-      "font_url": "https://fonts.google.com/specimen/Sniglet",
-      "tags": "sans-serif"
-    },
-    {
-      "font_name": "Sour Gummy",
-      "font_url": "https://fonts.google.com/specimen/Sour+Gummy",
-      "tags": "sans-serif favorites"
-    },
-    {
-      "font_name": "Special Elite",
-      "font_url": "https://fonts.google.com/specimen/Special+Elite",
-      "tags": "serif misc favorites"
-    },
-    {
-      "font_name": "Static Age Fine Tuning",
-      "font_url": "https://www.dafont.com/static-age-fine-tun.font",
-      "tags": "misc"
-    },
-    {
-      "font_name": "SVBold",
-      "font_url": "https://fontstruct.com/fontstructions/show/1543428/svbold",
-      "tags": "pixel favorites"
-    },
-    {
-      "font_name": "SVThin",
-      "font_url": "https://fontstruct.com/fontstructions/show/1543912/svthin",
-      "tags": "pixel favorites"
-    },
-    {
-      "font_name": "virale",
-      "font_url": "https://www.dafont.com/virale.font",
-      "tags": "pixel mono"
-    },
-    {
-      "font_name": "Vocaloid",
-      "font_url": "https://www.dafont.com/vocaloid.font",
-      "tags": "misc"
-    },
-    {
-      "font_name": "Wellfleet",
-      "font_url": "https://fonts.google.com/specimen/Wellfleet",
-      "tags": "serif"
-    },
-    {
-      "font_name": "white rabbit",
-      "font_url": "https://www.dafont.com/white-rabbit.font",
-      "tags": "misc mono favorites"
-    },
-    {
-      "font_name": "Yomogi",
-      "font_url": "https://fonts.google.com/specimen/Yomogi",
-      "tags": "script favorites"
-    },
-    {
-      "font_name": "yoster",
-      "font_url": "https://www.1001fonts.com/yoster-island-font.html",
-      "tags": "pixel"
-    }
-  ]
-}
+[
+  {
+    "font_name": "000webfont",
+    "font_url": "https://www.dafont.com/000webfont.font",
+    "tags": "pixel"
+  },
+  {
+    "font_name": "Aclonica",
+    "font_url": "https://fonts.google.com/specimen/Aclonica",
+    "tags": "sans-serif"
+  },
+  {
+    "font_name": "Add Standard Bitmap",
+    "font_url": "https://www.dafont.com/addstandardbitmap.font",
+    "tags": "pixel"
+  },
+  {
+    "font_name": "Adia",
+    "font_url": "https://www.dafont.com/adia.font",
+    "tags": "sans-serif script"
+  },
+  {
+    "font_name": "ADLaM Display",
+    "font_url": "https://fonts.google.com/specimen/ADLaM+Display",
+    "tags": "sans-serif"
+  },
+  {
+    "font_name": "Aloevera",
+    "font_url": "https://www.1001fonts.com/aloevera-font.html",
+    "tags": "serif cursive"
+  },
+  {
+    "font_name": "Arima",
+    "font_url": "https://fonts.google.com/specimen/Arima",
+    "tags": "script favorites"
+  },
+  {
+    "font_name": "Arima 2",
+    "font_url": "https://fontmeme.com/fonts/arima-font/",
+    "tags": "misc"
+  },
+  {
+    "font_name": "Atkinson Hyperlegible",
+    "font_url": "https://fonts.google.com/specimen/Atkinson+Hyperlegible",
+    "tags": "sans-serif favorites"
+  },
+  {
+    "font_name": "Baloo 2",
+    "font_url": "https://fonts.google.com/specimen/Baloo+2",
+    "tags": "sans-serif favorites"
+  },
+  {
+    "font_name": "Balsamiq Sans",
+    "font_url": "https://fonts.google.com/specimen/Balsamiq+Sans",
+    "tags": "sans-serif"
+  },
+  {
+    "font_name": "Bangalore",
+    "font_url": "https://www.dafont.com/bangalore.font",
+    "tags": "pixel"
+  },
+  {
+    "font_name": "Barlow",
+    "font_url": "https://fonts.google.com/specimen/Barlow",
+    "tags": "sans-serif"
+  },
+  {
+    "font_name": "basiic",
+    "font_url": "https://cinni.net/font",
+    "tags": "pixel favorites"
+  },
+  {
+    "font_name": "Berkshire Swash",
+    "font_url": "https://fonts.google.com/specimen/Berkshire+Swash",
+    "tags": "cursive"
+  },
+  {
+    "font_name": "Bestfriend",
+    "font_url": "https://www.dafont.com/bestfriend-2.font",
+    "tags": "script"
+  },
+  {
+    "font_name": "Bodoni 72",
+    "font_url": "https://fonts.google.com/specimen/Bodoni+72",
+    "tags": "serif"
+  },
+  {
+    "font_name": "Caprasimo",
+    "font_url": "https://fonts.google.com/specimen/Caprasimo",
+    "tags": "serif"
+  },
+  {
+    "font_name": "CatCafe",
+    "font_url": "https://www.dafont.com/catcafe.font",
+    "tags": "misc"
+  },
+  {
+    "font_name": "Chelsea Market",
+    "font_url": "https://fonts.google.com/specimen/Chelsea+Market",
+    "tags": "sans-serif favorites"
+  },
+  {
+    "font_name": "Cherry Bomb One",
+    "font_url": "https://fonts.google.com/specimen/Cherry+Bomb+One",
+    "tags": "misc"
+  },
+  {
+    "font_name": "Cherry Swash",
+    "font_url": "https://fonts.google.com/specimen/Cherry+Swash",
+    "tags": "serif favorites"
+  },
+  {
+    "font_name": "Chilanka",
+    "font_url": "https://fonts.google.com/specimen/Chilanka",
+    "tags": "script"
+  },
+  {
+    "font_name": "Cookies",
+    "font_url": "https://www.dafont.com/cookies.font",
+    "tags": "misc"
+  },
+  {
+    "font_name": "Correction Brush",
+    "font_url": "https://www.dafont.com/correction-brush.font",
+    "tags": "misc"
+  },
+  {
+    "font_name": "Croissant One",
+    "font_url": "https://fonts.google.com/specimen/Croissant One",
+    "tags": "cursive"
+  },
+  {
+    "font_name": "Daily Note",
+    "font_url": "https://www.dafont.com/daily-note.font",
+    "tags": "misc"
+  },
+  {
+    "font_name": "Daydream",
+    "font_url": "https://www.dafont.com/daydream-3.font",
+    "tags": "misc pixel"
+  },
+  {
+    "font_name": "Days One",
+    "font_url": "https://fonts.google.com/specimen/Days+One",
+    "tags": "sans-serif"
+  },
+  {
+    "font_name": "Dekko",
+    "font_url": "https://fonts.google.com/specimen/Dekko",
+    "tags": "misc script favorites"
+  },
+  {
+    "font_name": "Delicious Handrawn",
+    "font_url": "https://fonts.google.com/specimen/Delicious+Handrawn",
+    "tags": "script"
+  },
+  {
+    "font_name": "Delius",
+    "font_url": "https://fonts.google.com/specimen/Delius",
+    "tags": "script favorites"
+  },
+  {
+    "font_name": "Denk One",
+    "font_url": "https://fonts.google.com/specimen/Denk+One",
+    "tags": "sans-serif"
+  },
+  {
+    "font_name": "Dongle",
+    "font_url": "https://fonts.google.com/specimen/Dongle",
+    "tags": "misc"
+  },
+  {
+    "font_name": "Doto",
+    "font_url": "https://fonts.google.com/specimen/Doto",
+    "tags": "pixel mono"
+  },
+  {
+    "font_name": "Drama Protocols",
+    "font_url": "https://www.dafont.com/drama-protocols.font",
+    "tags": "misc"
+  },
+  {
+    "font_name": "dungeon-mode",
+    "font_url": "https://datagoblin.itch.io/dungeonmode",
+    "tags": "pixel"
+  },
+  {
+    "font_name": "Emilys Candy",
+    "font_url": "https://fonts.google.com/specimen/Emilys+Candy",
+    "tags": "serif"
+  },
+  {
+    "font_name": "fingerlinger",
+    "font_url": "https://www.dafont.com/fingerlinger.font",
+    "tags": "script"
+  },
+  {
+    "font_name": "Fishes Friends",
+    "font_url": "https://www.dafont.com/fishes-friends.font",
+    "tags": "script"
+  },
+  {
+    "font_name": "Glass Antiqua",
+    "font_url": "https://fonts.google.com/specimen/Glass+Antiqua",
+    "tags": "serif favorites"
+  },
+  {
+    "font_name": "Grenze Gotisch",
+    "font_url": "https://fonts.google.com/specimen/Grenze+Gotisch",
+    "tags": "serif"
+  },
+  {
+    "font_name": "Handjet",
+    "font_url": "https://fonts.google.com/specimen/Handjet",
+    "tags": "pixel favorites"
+  },
+  {
+    "font_name": "Harvest Story",
+    "font_url": "https://www.dafont.com/harvest-story.font",
+    "tags": "script"
+  },
+  {
+    "font_name": "Helwa",
+    "font_url": "https://www.dafont.com/helwa.font",
+    "tags": "script"
+  },
+  {
+    "font_name": "Hey Comic",
+    "font_url": "https://www.dafont.com/hey-comic.font",
+    "tags": "sans-serif"
+  },
+  {
+    "font_name": "Janda Quirky Girl",
+    "font_url": "https://www.dafont.com/janda-quirkygirl.font",
+    "tags": "misc"
+  },
+  {
+    "font_name": "Jersey 20",
+    "font_url": "https://fonts.google.com/specimen/Jersey+20",
+    "tags": "pixel"
+  },
+  {
+    "font_name": "Jua",
+    "font_url": "https://fonts.google.com/specimen/Jua",
+    "tags": "misc favorites"
+  },
+  {
+    "font_name": "Kavala",
+    "font_url": "https://fontmeme.com/fonts/kavala-font/",
+    "tags": "misc"
+  },
+  {
+    "font_name": "KG Everywhere Everything",
+    "font_url": "https://www.dafont.com/kg-everywhere-everything.font",
+    "tags": "script"
+  },
+  {
+    "font_name": "KTEGAKI",
+    "font_url": "https://font.spicy-sweet.com/",
+    "tags": "script favorites"
+  },
+  {
+    "font_name": "Lavishly Yours",
+    "font_url": "https://fonts.google.com/specimen/Lavishly+Yours",
+    "tags": "cursive"
+  },
+  {
+    "font_name": "Lemon Milk",
+    "font_url": "https://www.dafont.com/lemon-milk.font",
+    "tags": "sans-serif"
+  },
+  {
+    "font_name": "Love Ya Like A Sister",
+    "font_url": "https://fonts.google.com/specimen/Love+Ya+Like+A+Sister",
+    "tags": "serif script"
+  },
+  {
+    "font_name": "Luminari",
+    "font_url": "https://font.download/font/luminari",
+    "tags": "serif"
+  },
+  {
+    "font_name": "m6x11",
+    "font_url": "https://managore.itch.io/m6x11",
+    "tags": "pixel"
+  },
+  {
+    "font_name": "Mad Pixels",
+    "font_url": "https://www.dafont.com/nl/mad-pixels.font",
+    "tags": "pixel misc"
+  },
+  {
+    "font_name": "Mali",
+    "font_url": "https://fonts.google.com/specimen/Mali",
+    "tags": "favorites cursive"
+  },
+  {
+    "font_name": "Manjari",
+    "font_url": "https://fonts.google.com/specimen/Manjari",
+    "tags": "misc"
+  },
+  {
+    "font_name": "Margarine",
+    "font_url": "https://fonts.google.com/specimen/Margarine",
+    "tags": "script favorites"
+  },
+  {
+    "font_name": "Mat Saleh",
+    "font_url": "https://www.dafont.com/mat-saleh.font",
+    "tags": "script"
+  },
+  {
+    "font_name": "Mayonice",
+    "font_url": "https://www.dafont.com/mayonice.font",
+    "tags": "cursive"
+  },
+  {
+    "font_name": "Motley Forces",
+    "font_url": "https://www.dafont.com/motley-forces.font",
+    "tags": "misc"
+  },
+  {
+    "font_name": "Muloka Kerash",
+    "font_url": "https://www.dafont.com/muloka-kerash.font",
+    "tags": "serif misc"
+  },
+  {
+    "font_name": "Mynerve",
+    "font_url": "https://fonts.google.com/specimen/Mynerve",
+    "tags": "script"
+  },
+  {
+    "font_name": "Mystery Quest",
+    "font_url": "https://fonts.google.com/specimen/Mystery+Quest",
+    "tags": "serif"
+  },
+  {
+    "font_name": "Nanum Pen Script",
+    "font_url": "https://fonts.google.com/specimen/Nanum+Pen+Script",
+    "tags": "misc"
+  },
+  {
+    "font_name": "Nerko One",
+    "font_url": "https://fonts.google.com/specimen/Nerko+One",
+    "tags": "misc"
+  },
+  {
+    "font_name": "Neucha",
+    "font_url": "https://fonts.google.com/specimen/Neucha",
+    "tags": "sans-serif misc"
+  },
+  {
+    "font_name": "Next Sunday",
+    "font_url": "https://www.dafont.com/next-sunday.font",
+    "tags": "sans-serif"
+  },
+  {
+    "font_name": "Nice Chalk Demo",
+    "font_url": "https://www.dafont.com/nice-chalk.font",
+    "tags": "script"
+  },
+  {
+    "font_name": "Nintendo Humming",
+    "font_url": "https://triviacrossing.tumblr.com/post/181837431289/animal-crossing-dialogue-font",
+    "tags": "sans-serif misc favorites"
+  },
+  {
+    "font_name": "Nova Mono",
+    "font_url": "https://fonts.google.com/specimen/Nova+Mono",
+    "tags": "mono"
+  },
+  {
+    "font_name": "OCRA",
+    "font_url": "https://www.wfonts.com/font/ocra",
+    "tags": "misc"
+  },
+  {
+    "font_name": "Palanquin Dark",
+    "font_url": "https://fonts.google.com/specimen/Palanquin+Dark",
+    "tags": "sans-serif"
+  },
+  {
+    "font_name": "Pangolin",
+    "font_url": "https://fonts.google.com/specimen/Pangolin",
+    "tags": "script"
+  },
+  {
+    "font_name": "Patrick Hand",
+    "font_url": "https://fonts.google.com/specimen/Patrick+Hand",
+    "tags": "script"
+  },
+  {
+    "font_name": "Peaberry",
+    "font_url": "https://emhuo.itch.io/peaberry-pixel-font",
+    "tags": "pixel favorites"
+  },
+  {
+    "font_name": "Pen 2",
+    "font_url": "https://www.dafont.com/pen-2.font",
+    "tags": "script"
+  },
+  {
+    "font_name": "Pink Chicken",
+    "font_url": "https://www.dafont.com/pink-chicken.font",
+    "tags": "misc"
+  },
+  {
+    "font_name": "Pixellari",
+    "font_url": "https://www.dafont.com/pixellari.font",
+    "tags": "pixel"
+  },
+  {
+    "font_name": "Preahvihear",
+    "font_url": "https://fonts.google.com/specimen/Preahvihear",
+    "tags": "misc favorites"
+  },
+  {
+    "font_name": "Quenton Serif",
+    "font_url": "https://www.dafont.com/quenton-serif.font",
+    "tags": "serif"
+  },
+  {
+    "font_name": "quickstyler",
+    "font_url": "https://www.dafont.com/quickstyler.font",
+    "tags": "cursive"
+  },
+  {
+    "font_name": "Romance A",
+    "font_url": "https://eng.m.fontke.com/font/10430672/download/",
+    "tags": "pixel"
+  },
+  {
+    "font_name": "Signature December",
+    "font_url": "https://www.dafont.com/signature-december.font",
+    "tags": "cursive misc favorites"
+  },
+  {
+    "font_name": "Sniglet",
+    "font_url": "https://fonts.google.com/specimen/Sniglet",
+    "tags": "sans-serif"
+  },
+  {
+    "font_name": "Sour Gummy",
+    "font_url": "https://fonts.google.com/specimen/Sour+Gummy",
+    "tags": "sans-serif favorites"
+  },
+  {
+    "font_name": "Special Elite",
+    "font_url": "https://fonts.google.com/specimen/Special+Elite",
+    "tags": "serif misc favorites"
+  },
+  {
+    "font_name": "Static Age Fine Tuning",
+    "font_url": "https://www.dafont.com/static-age-fine-tun.font",
+    "tags": "misc"
+  },
+  {
+    "font_name": "SVBold",
+    "font_url": "https://fontstruct.com/fontstructions/show/1543428/svbold",
+    "tags": "pixel favorites"
+  },
+  {
+    "font_name": "SVThin",
+    "font_url": "https://fontstruct.com/fontstructions/show/1543912/svthin",
+    "tags": "pixel favorites"
+  },
+  {
+    "font_name": "virale",
+    "font_url": "https://www.dafont.com/virale.font",
+    "tags": "pixel mono"
+  },
+  {
+    "font_name": "Vocaloid",
+    "font_url": "https://www.dafont.com/vocaloid.font",
+    "tags": "misc"
+  },
+  {
+    "font_name": "Wellfleet",
+    "font_url": "https://fonts.google.com/specimen/Wellfleet",
+    "tags": "serif"
+  },
+  {
+    "font_name": "white rabbit",
+    "font_url": "https://www.dafont.com/white-rabbit.font",
+    "tags": "misc mono favorites"
+  },
+  {
+    "font_name": "Yomogi",
+    "font_url": "https://fonts.google.com/specimen/Yomogi",
+    "tags": "script favorites"
+  },
+  {
+    "font_name": "yoster",
+    "font_url": "https://www.1001fonts.com/yoster-island-font.html",
+    "tags": "pixel"
+  }
+]
