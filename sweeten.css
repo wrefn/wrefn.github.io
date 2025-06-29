@@ -51,7 +51,7 @@
   border-width: 2px 0;
 }
 
-.tab-container {
+.main-wrap {
   width: clamp(300px, 100%, 30rem);
   padding: 0 !important;
   position: relative;
@@ -72,7 +72,7 @@ html:has(#topper) {
   min-height: fit-content;
 }
 
- .main-wrap {
+ .tab-container {
   display: flex;
   align-items: center;
   flex-direction: row;
@@ -405,13 +405,13 @@ html:has(#topper) {
 }
 
 @media only screen and (max-width: 850px) {
-   .main-wrap {
+   .tab-container {
     flex-direction: column !important;
     height: 100% !important;
   }
 
   #album,
-  .tab-container {
+  .main-wrap {
     width: clamp(300px, 100%, 40rem);
   }
 
