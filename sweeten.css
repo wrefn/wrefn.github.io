@@ -395,7 +395,7 @@ main {
  table th {
   min-width: unset !important;
   padding: 0 !important;
-  text-align: center !important;
+  text-align: center;
   background: transparent;
   border: none;
 }
